@@ -13,4 +13,4 @@ I engineer infrastructure that respects the machine it runs on.
 **Currently:** designing a sovereign agent operating system in stealth.
 Public reveal: **November 3, 2026**. Star this profile to be notified.
 
-**Elsewhere:** [X](https://x.com/shubhsa24) · [LinkedIn](https://www.linkedin.com/in/shubhsa24) · [Writing](https://shubhsa24.hashnode.dev)
+**Elsewhere:** [X](https://x.com/shubh_24_SA) · [LinkedIn](https://www.linkedin.com/in/shubh-anand-203b7543b/?isSelfProfile=true) · [Writing](https://dev.to/shubh-sa-24)
