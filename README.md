@@ -1,16 +1,16 @@
-## Hi there 👋
+### Shubh — Systems Architect
 
-<!--
-**shubh-SA-24/shubh-SA-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I engineer infrastructure that respects the machine it runs on.
 
-Here are some ideas to get you started:
+**Doctrines**
+- Local-first & offline-capable by default
+- Zero telemetry, zero phone-home, privacy by construction
+- Sandboxed execution & supply-chain safety (fail-closed, always)
+- Native-runtime purity: Node built-ins, SQLite, POSIX — no dependency bloat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current stack:** TypeScript / Node (native APIs only) · SQLite · Godot 4 · CDP · Seatbelt/Bubblewrap
+
+**Currently:** designing a sovereign agent operating system in stealth.
+Public reveal: **November 3, 2026**. Star this profile to be notified.
+
+**Elsewhere:** [X](https://x.com/shubhsa24) · [LinkedIn](https://www.linkedin.com/in/shubhsa24) · [Writing](https://shubhsa24.hashnode.dev)
